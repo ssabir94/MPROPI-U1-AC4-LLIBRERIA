@@ -1,0 +1,91 @@
+﻿fila_csv,titol,genere,sucursal,exemplars,pagines,data
+2,Quadern,Educació,Vic,47,18,2026-04-03
+3,Còmic,Coneixement,Manresa,10,79,2025-03-20
+4,Còmic,Còmic,Vic,20,23,2026-05-23
+5,Novel·la,Ficció,Barcelona,20,41,2025-06-13
+7,Llibre de text,Papereria,Barcelona,8,48,2025-02-23
+8,Quadern,Ficció,Vic,72,80,2026-04-11
+9,Quadern,Papereria,Tarragona,30,56,2025-11-20
+10,Llibre de text,Còmic,Girona,51,53,2025-11-10
+11,Assaig,Educació,Vic,80,75,2026-07-03
+12,Llibre de text,Coneixement,Girona,6,2,2026-02-04
+13,Llibre infantil,Papereria,Manresa,17,10,2025-01-08
+14,Agenda,Còmic,Girona,33,40,2025-11-22
+15,Agenda,Infantil,Manresa,57,7,2025-02-16
+16,Quadern,Coneixement,Vic,69,19,2026-01-30
+17,Llibre de text,Coneixement,Barcelona,17,26,2025-12-20
+18,Llibre de text,Còmic,Manresa,42,52,2025-05-11
+19,Assaig,Educació,Tarragona,33,17,2026-02-01
+20,Novel·la,Coneixement,Tarragona,76,5,2026-07-05
+24,Llibre infantil,Coneixement,Vic,22,49,2025-05-12
+25,Agenda,Papereria,Manresa,52,1,2025-05-06
+26,Assaig,Còmic,Girona,25,7,2026-09-01
+27,Quadern,Coneixement,Girona,17,60,2026-02-25
+28,Còmic,Ficció,Vic,5,41,2025-12-18
+29,Novel·la,Ficció,Tarragona,79,12,2025-07-06
+30,Llibre de text,Coneixement,Manresa,66,76,2025-12-04
+31,Quadern,Ficció,Girona,6,53,2026-05-14
+33,Llibre infantil,Infantil,Tarragona,54,72,2025-12-06
+34,Llibre infantil,Papereria,Tarragona,79,26,2025-10-28
+36,Llibre de text,Coneixement,Barcelona,60,53,2025-07-17
+37,Agenda,Coneixement,Barcelona,40,15,2025-03-04
+39,Llibre de cuina,Ficció,Girona,10,25,2025-02-05
+40,Agenda,Papereria,Vic,77,19,2025-03-29
+41,Novel·la,Infantil,Vic,71,58,2025-12-30
+42,Agenda,Papereria,Manresa,30,54,2025-10-03
+43,Llibre infantil,Còmic,Manresa,55,46,2026-06-01
+45,Llibre de cuina,Educació,Tarragona,9,18,2026-07-12
+46,Assaig,Papereria,Vic,21,10,2026-09-06
+47,Llibre de cuina,Educació,Girona,2,38,2025-01-11
+48,Novel·la,Infantil,Tarragona,12,80,2026-06-23
+49,Assaig,Infantil,Barcelona,5,61,2025-12-06
+51,Novel·la,Coneixement,Vic,78,63,2025-11-27
+52,Quadern,Coneixement,Girona,15,9,2026-05-02
+53,Llibre infantil,Infantil,Barcelona,70,32,2026-09-09
+54,Quadern,Ficció,Manresa,53,24,2026-01-18
+56,Assaig,Educació,Barcelona,47,44,2025-01-16
+58,Còmic,Còmic,Barcelona,78,31,2025-04-27
+59,Llibre de cuina,Educació,Vic,74,46,2026-04-14
+60,Llibre de text,Educació,Manresa,69,6,2026-05-27
+64,Llibre de text,Ficció,Manresa,27,37,2025-08-21
+65,Quadern,Educació,Barcelona,6,47,2026-07-28
+66,Llibre de text,Coneixement,Girona,12,41,2026-08-23
+67,Llibre de text,Coneixement,Manresa,75,24,2025-07-17
+68,Llibre de cuina,Infantil,Tarragona,52,34,2026-06-12
+70,Còmic,Infantil,Girona,64,54,2026-02-24
+73,Assaig,Coneixement,Manresa,47,14,2026-04-25
+74,Agenda,Infantil,Girona,23,6,2026-05-03
+76,Agenda,Educació,Tarragona,21,38,2025-09-18
+77,Agenda,Ficció,Tarragona,4,39,2025-11-04
+79,Agenda,Còmic,Tarragona,17,20,2026-07-27
+80,Novel·la,Educació,Vic,60,16,2025-02-04
+81,Agenda,Còmic,Girona,5,68,2025-04-17
+82,Llibre infantil,Còmic,Manresa,29,35,2025-01-12
+83,Llibre de text,Coneixement,Girona,41,2,2025-10-16
+85,Llibre de text,Infantil,Barcelona,37,30,2025-12-05
+88,Llibre de cuina,Papereria,Barcelona,53,12,2026-09-23
+89,Llibre infantil,Còmic,Barcelona,19,74,2026-02-03
+91,Llibre de text,Coneixement,Barcelona,42,22,2025-05-08
+92,Quadern,Coneixement,Girona,16,8,2026-02-16
+94,Novel·la,Coneixement,Tarragona,44,68,2025-11-16
+97,Còmic,Educació,Vic,71,71,2026-03-22
+98,Quadern,Infantil,Manresa,79,6,2026-08-07
+99,Assaig,Ficció,Barcelona,26,20,2025-07-27
+100,Llibre de text,Coneixement,Manresa,5,68,2026-03-22
+102,Quadern,Coneixement,Manresa,5,50,2025-09-26
+103,Novel·la,Infantil,Vic,21,4,2026-07-07
+104,Còmic,Coneixement,Manresa,44,40,2025-12-26
+105,Agenda,Infantil,Vic,41,10,2026-06-27
+106,Agenda,Papereria,Manresa,6,37,2026-07-29
+107,Quadern,Còmic,Manresa,31,1,2025-11-08
+108,Còmic,Còmic,Vic,25,52,2025-08-02
+109,Llibre de cuina,Papereria,Barcelona,26,62,2025-05-12
+110,Llibre de text,Educació,Girona,21,66,2025-06-16
+112,Llibre de cuina,Coneixement,Vic,13,68,2025-04-25
+113,Assaig,Papereria,Vic,76,65,2026-09-26
+114,Llibre de text,Coneixement,Vic,11,47,2026-10-03
+115,Novel·la,Educació,Manresa,31,13,2026-02-08
+117,Quadern,Còmic,Barcelona,46,12,2025-02-13
+119,Còmic,Ficció,Barcelona,39,79,2026-04-02
+120,Novel·la,Educació,Vic,78,53,2025-09-20
+121,Llibre de text,Ficció,Manresa,19,48,2025-06-28

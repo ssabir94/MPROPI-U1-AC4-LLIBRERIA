@@ -1,0 +1,59 @@
+﻿fila_csv,tipus,camp,valor_original,accio
+6,REBUTJAT,sucursal,   ,Camp obligatori buit
+6,REBUTJAT,exemplars,1O,Valor buit o no interpretable com a enter positiu
+21,REBUTJAT,pagines,aprox. 25,Valor buit o no interpretable com a enter positiu
+21,REBUTJAT,data,31/04/2025,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+22,REBUTJAT,titol,,Camp obligatori buit
+23,REBUTJAT,pagines,--,Valor buit o no interpretable com a enter positiu
+23,REBUTJAT,data,ahir,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+32,REBUTJAT,genere,   ,Camp obligatori buit
+32,REBUTJAT,exemplars,2.5,Valor buit o no interpretable com a enter positiu
+35,REBUTJAT,genere,,Camp obligatori buit
+35,REBUTJAT,exemplars,12 unitats,Valor buit o no interpretable com a enter positiu
+38,REBUTJAT,titol,   ,Camp obligatori buit
+38,REBUTJAT,genere,,Camp obligatori buit
+38,REBUTJAT,exemplars,0,Valor buit o no interpretable com a enter positiu
+44,REBUTJAT,exemplars,dos,Valor buit o no interpretable com a enter positiu
+44,REBUTJAT,pagines,0,Valor buit o no interpretable com a enter positiu
+50,REBUTJAT,data,2025-02-29,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+55,REBUTJAT,data,2025-14-03,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+57,REBUTJAT,sucursal,   ,Camp obligatori buit
+61,REBUTJAT,data,,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+62,REBUTJAT,exemplars, ,Valor buit o no interpretable com a enter positiu
+62,REBUTJAT,pagines,abc,Valor buit o no interpretable com a enter positiu
+63,CORRECCIO,exemplars,"3,0",Format numèric normalitzat sense canviar el valor
+63,REBUTJAT,pagines,-12.5,Valor buit o no interpretable com a enter positiu
+69,REBUTJAT,data,2025.06.10,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+71,REBUTJAT,sucursal,,Camp obligatori buit
+71,REBUTJAT,exemplars,-4,Valor buit o no interpretable com a enter positiu
+72,REBUTJAT,data,2025-11-31,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+74,CORRECCIO,titol, Agenda  ,Espais dels extrems eliminats
+75,REBUTJAT,exemplars,4x,Valor buit o no interpretable com a enter positiu
+75,REBUTJAT,pagines,12 unitats,Valor buit o no interpretable com a enter positiu
+78,REBUTJAT,titol,   ,Camp obligatori buit
+83,CORRECCIO,genere, Coneixement  ,Espais dels extrems eliminats
+84,REBUTJAT,pagines,"1,2,3",Valor buit o no interpretable com a enter positiu
+84,REBUTJAT,data,2025-02-30,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+86,REBUTJAT,pagines,gratis,Valor buit o no interpretable com a enter positiu
+86,REBUTJAT,data,2025/13/01,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+87,REBUTJAT,pagines,4/5,Valor buit o no interpretable com a enter positiu
+87,REBUTJAT,data,2025-1-4,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+90,REBUTJAT,genere,   ,Camp obligatori buit
+91,CORRECCIO,titol, Llibre de text  ,Espais dels extrems eliminats
+92,CORRECCIO,titol, Quadern  ,Espais dels extrems eliminats
+93,REBUTJAT,pagines,NaN?,Valor buit o no interpretable com a enter positiu
+93,REBUTJAT,data,2025-00-12,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+95,REBUTJAT,data,01-15-2025,"Data buida, impossible o amb format diferent de AAAA-MM-DD"
+96,CORRECCIO,genere, Papereria  ,Espais dels extrems eliminats
+96,REBUTJAT,exemplars,??,Valor buit o no interpretable com a enter positiu
+96,REBUTJAT,pagines, ,Valor buit o no interpretable com a enter positiu
+101,REBUTJAT,exemplars,-1,Valor buit o no interpretable com a enter positiu
+101,REBUTJAT,pagines,15..90,Valor buit o no interpretable com a enter positiu
+111,REBUTJAT,titol,,Camp obligatori buit
+111,REBUTJAT,exemplars,tres,Valor buit o no interpretable com a enter positiu
+113,CORRECCIO,titol, Assaig  ,Espais dels extrems eliminats
+114,CORRECCIO,genere, Coneixement  ,Espais dels extrems eliminats
+116,REBUTJAT,sucursal,,Camp obligatori buit
+118,REBUTJAT,genere,,Camp obligatori buit
+118,REBUTJAT,sucursal,,Camp obligatori buit
+121,CORRECCIO,titol, Llibre de text  ,Espais dels extrems eliminats
